@@ -23,5 +23,5 @@ print(introduction)
  */
 let name = "Yemo"
 let age: Int = 16
-
+print("My name is", name, "and after my next birthday I will be", age + 1, "years old" )
 //: [Previous](@previous)  |  page 2 of 5  |  [Next: App Exercise - Notifications](@next)
